@@ -1,0 +1,25 @@
+<table>
+<tr>
+<td width="60%">
+
+![인트로 PC](../images/01-intro-pc.png)
+
+</td>
+<td width="40%" valign="top">
+
+### 01 | 배너 영역
+- 포르투갈 서비스 인지용 배너
+- 클릭 시 무반응
+
+### 02 | 작품 텍스트 영역
+- 메인: 🔥 Histórias populares
+- 서브: Para leitores em português
+
+### 03 | 작품 전시 영역
+- PC: 5열 × 10행 = 50작품
+- 작품명 최대 2줄, 초과 시 `...`
+- 클릭 시 포르투갈어 회차리스트 이동
+
+</td>
+</tr>
+</table>
