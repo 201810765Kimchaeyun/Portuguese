@@ -8,7 +8,7 @@
 
 | PC | 모바일 |
 |----|--------|
-| ![인트로 PC](../images/01-intro-pc.png) | ![인트로 모바일](../images/01-intro-mo.png) |
+| ![인트로 PC](../images/intro_test.png) | ![인트로 모바일](../images/intro_test.png) |
 
 > 🖼️ 목업 이미지 추가 필요
 
